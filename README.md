@@ -21,5 +21,5 @@ I am a developer from Denmark, currently learning the foundations of software en
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Discord
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/688038894247084060)

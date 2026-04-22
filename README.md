@@ -1,17 +1,18 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gamergugi/gamergugi/main/banner-inverted.png" width="800" height="150" style="object-fit: cover; border-radius: 20px; border: 1px solid #24292e; box-shadow: 0 8px 24px rgba(0,0,0,0.5);">
+  <img src="https://raw.githubusercontent.com/gamergugi/gamergugi/main/banner-inverted.png" width="100%" height="180" style="object-fit: cover; object-position: 50% 15%; border-radius: 15px; border: 1px solid #30363d;">
 </p>
 
+<h1 align="center">Hi, I'm 𝓰𝓪𝓶𝓮𝓻_𝓰𝓾𝓰𝓲 👋</h1>
 
-# Hi, I'm 𝓰𝓪𝓶𝓮𝓻_𝓰𝓾𝓰𝓲 👋
+<p align="center">
+  <i>"Are you the strongest because you're Satoru Gojo or are you Satoru Gojo because you're the strongest?"</i> — <b>Suguru Geto</b>
+</p>
 
+<p align="center">
+  I'm an aspiring developer currently diving into <b>Python</b> and <b>Cyber Security</b>.
+</p>
 
-> "Are you the strongest because you're Satoru Gojo or are you Satoru Gojo because you're the strongest?" — Suguru Geto 夏油 傑
-
-
-I am trying to become a developer, currently learning some Python and Cyber Security
-
----
+<br />
 
 ### 🛠️ Technical Arsenal
 <p align="left">
@@ -21,12 +22,18 @@ I am trying to become a developer, currently learning some Python and Cyber Secu
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
+<br />
 
 ### 📊 Metrics
-![Gugi's Stats](https://github-readme-stats.vercel.app/api?username=gamergugi&show_icons=true&theme=transparent&hide_border=true&title_color=7AA2F7&icon_color=7AA2F7&text_color=ffffff)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gamergugi&show_icons=true&theme=transparent&hide_border=true&title_color=7AA2F7&icon_color=7AA2F7&text_color=ffffff" width="400" />
+</p>
 
----
+<br />
 
-### 🤝 Discord
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/688038894247084060)
+### 🤝 Connect
+<p align="left">
+  <a href="https://discord.com/users/688038894247084060">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>

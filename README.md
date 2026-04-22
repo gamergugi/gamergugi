@@ -3,7 +3,7 @@
 
 > "Are you the strongest because you're Satoru Gojo or are you Satoru Gojo because you're the strongest?" — Suguru Geto 夏油 傑
 
-I am a developer from Denmark, currently learning some Python and Cyber Security
+I am trying to become a developer from Denmark, currently learning some Python and Cyber Security
 
 ---
 

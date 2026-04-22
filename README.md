@@ -14,17 +14,17 @@ I am trying to become a developer, currently learning some Python and Cyber Secu
 ---
 
 ### 🛠️ Technical Arsenal
-
-| Category | Technologies |
-| :--- | :--- |
-| **Learning** | 🐍 Python, 💻 Cyber Security |
-| **Tools** | 🖥️ VS Code, 🐙 GitHub, 🐧 Linux |
-| **Interests** | 🎮 Game Development, 🔧 Systems Engineering |
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
 ### 📊 Metrics
-![Gugi's Stats](https://github-readme-stats.vercel.app/api?username=gamergugi&show_icons=true&theme=tokyonight&hide_border=true)
+![Gugi's Stats](https://github-readme-stats.vercel.app/api?username=gamergugi&show_icons=true&theme=transparent&hide_border=true&title_color=7AA2F7&icon_color=7AA2F7&text_color=ffffff)
 
 ---
 

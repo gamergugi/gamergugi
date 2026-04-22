@@ -3,7 +3,7 @@
 
 > "Are you the strongest because you're Satoru Gojo or are you Satoru Gojo because you're the strongest?" — Suguru Geto
 
-I am a developer from Denmark, currently learning the foundations of software engineering. Inspired by my brother **Zuntie**, I'm diving into the world of code to build my own tools and games.
+I am a developer from Denmark, currently learning the foundations of software engineering.
 
 ---
 

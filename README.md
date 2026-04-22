@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gamergugi/gamergugi/main/banner-inverted.png" width="100%" style="border-radius: 10px; border: 1px solid #7AA2F7;">
+  <img src="https://raw.githubusercontent.com/gamergugi/gamergugi/main/banner-transparent.png" width="100%" height="220" style="object-fit: cover; border-radius: 12px; border: 2px solid #7AA2F7; object-position: 50% 15%;">
 </p>
 
 

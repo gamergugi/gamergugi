@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gamergugi/gamergugi/main/gemini.google.jpg" width="100%" height="250" style="object-fit: cover; object-position: 50% 20%;">
+</p>
+
+
 # Hi, I'm 𝓰𝓪𝓶𝓮𝓻_𝓰𝓾𝓰𝓲 👋
 
 

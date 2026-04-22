@@ -1,4 +1,4 @@
-# Hi, I'm 𝓰𝓪𝓶𝓮𝓻_𝓰𝓾𝓰𝓲👋
+# Hi, I'm 𝓰𝓪𝓶𝓮𝓻_𝓰𝓾𝓰𝓲 👋
 
 
 > "Are you the strongest because you're Satoru Gojo or are you Satoru Gojo because you're the strongest?" — Suguru Geto 夏油 傑

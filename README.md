@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gamergugi/gamergugi/main/banner-inverted.png" width="100%" height="180" style="object-fit: cover; object-position: 50% 15%; border-radius: 15px; border: 1px solid #30363d;">
+  <img src="https://raw.githubusercontent.com/gamergugi/gamergugi/main/banner-inverted.png" width="100%" height="160" style="object-fit: cover; object-position: 50% 15%; border-radius: 12px; border: 1px solid #30363d;">
 </p>
 
 <h1 align="center">Hi, I'm 𝓰𝓪𝓶𝓮𝓻_𝓰𝓾𝓰𝓲 👋</h1>
@@ -26,7 +26,7 @@
 
 ### 📊 Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gamergugi&show_icons=true&theme=transparent&hide_border=true&title_color=7AA2F7&icon_color=7AA2F7&text_color=ffffff" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gamergugi&show_icons=true&theme=transparent&hide_border=true&title_color=7AA2F7&icon_color=7AA2F7&text_color=ffffff&bg_color=00000000" width="450" />
 </p>
 
 <br />

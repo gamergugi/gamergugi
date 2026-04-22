@@ -11,7 +11,7 @@ I am a developer from Denmark, currently learning the foundations of software en
 
 | Category | Technologies |
 | :--- | :--- |
-| **Learning** | 🐍 Python, 💻 C++, 🔢 Logic |
+| **Learning** | 🐍 Python, 💻 Cyber Security |
 | **Tools** | 🖥️ VS Code, 🐙 GitHub, 🐧 Linux |
 | **Interests** | 🎮 Game Development, 🔧 Systems Engineering |
 

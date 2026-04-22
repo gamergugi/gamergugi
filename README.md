@@ -1,9 +1,9 @@
 # Hi, I'm 𝓰𝓪𝓶𝓮𝓻_𝓰𝓾𝓰𝓲👋
 
 
-> "Are you the strongest because you're Satoru Gojo or are you Satoru Gojo because you're the strongest?" — Suguru Geto
+> "Are you the strongest because you're Satoru Gojo or are you Satoru Gojo because you're the strongest?" — Suguru Geto 夏油 傑
 
-I am a developer from Denmark, currently learning the foundations of software engineering.
+I am a developer from Denmark, currently learning some Python and Cyber Security
 
 ---
 

@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/gamergugi/gamergugi/main/gemini.google.jpg" width="100%" style="border-radius: 10px;">
 </p>
+
+
 # Hi, I'm 𝓰𝓪𝓶𝓮𝓻_𝓰𝓾𝓰𝓲 👋
 
 

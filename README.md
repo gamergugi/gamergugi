@@ -22,7 +22,7 @@ I am trying to become a developer, currently learning some Python and Cyber Secu
 
 ### 📊 Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gamergugi&show_icons=true&theme=transparent&hide_border=true&title_color=7AA2F7&icon_color=7AA2F7&text_color=ffffff&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gamergugi&show_icons=true&theme=tokyonight" />
 </p>
 
 ---

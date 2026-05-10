@@ -1,6 +1,3 @@
-<p align="left">
-  <img src="https://raw.githubusercontent.com/gamergugi/gamergugi/main/banner-inverted.png" width="100%" height="180" style="object-fit: cover; object-position: 50% 15%; border-radius: 12px; border: 1px solid #30363d;">
-</p>
 
 # Hi, I'm 𝓰𝓪𝓶𝓮𝓻_𝓰𝓾𝓰𝓲 👋
 
